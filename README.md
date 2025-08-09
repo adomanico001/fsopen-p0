@@ -23,24 +23,24 @@ So, each part has its own directory, which contains a directory for each exercis
 The exercises are submitted <strong>one part at a time</strong>. When you have submitted the exercises for a part, you can no longer submit any missed exercises for that part.
 
 ### 0.1: HTML
-Review the basics of HTML by reading this tutorial from Mozilla: [HTML tutorial]().
+Review the basics of HTML by reading this tutorial from Mozilla: [HTML tutorial](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content).
 
 *This exercise is not submitted to GitHub, it's enough to just read the tutorial*
 
 ### 0.2: CSS
-Review the basics of CSS by reading this tutorial from Mozilla: [CSS tutorial]().
+Review the basics of CSS by reading this tutorial from Mozilla: [CSS tutorial](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content).
 
 *This exercise is not submitted to GitHub, it's enough to just read the tutorial*
 
 ### 0.3: HTML forms
-Learn about the basics of HTML forms by reading Mozilla's tutorial [Your first form]().
+Learn about the basics of HTML forms by reading Mozilla's tutorial [Your first form](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Your_first_form).
 
 *This exercise is not submitted to GitHub, it's enough to just read the tutorial*
 
 ### 0.4: New note diagram
-In the section Loading a page containing JavaScript - review, the chain of events caused by opening the page https://studies.cs.helsinki.fi/exampleapp/notes is depicted as a sequence diagram
+In the section [Loading a page containing JavaScript - review](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#loading-a-page-containing-java-script-review), the chain of events caused by opening the page https://studies.cs.helsinki.fi/exampleapp/notes is depicted as a [sequence diagram](https://www.geeksforgeeks.org/system-design/unified-modeling-language-uml-sequence-diagrams/)
 
-The diagram was made as a GitHub Markdown-file using the Mermaid-syntax, as follows:
+The diagram was made as a GitHub Markdown-file using the [Mermaid](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)-syntax, as follows:
 ```
 sequenceDiagram
     participant browser
@@ -76,14 +76,12 @@ If necessary, show operations on the browser or on the server as comments on the
 
 The diagram does not have to be a sequence diagram. Any sensible way of presenting the events is fine.
 
-All necessary information for doing this, and the next two exercises, can be found in the text of [this part](). The idea of these exercises is to read the text once more and to think through what is going on there. Reading the application [code]() is not necessary, but it is of course possible.
-
-You can do the diagrams with any program, but perhaps the easiest and the best way to do diagrams is the [Mermaid]() syntax that is now implemented in [GitHub]() Markdown pages!
+All necessary information for doing this, and the next two exercises, can be found in the text of [this part](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#forms-and-http-post). The idea of these exercises is to read the text once more and to think through what is going on there. Reading the application [code](https://github.com/mluukkai/example_app) is not necessary, but it is of course possible.
 
 ### 0.5: Single page app diagram
-Create a diagram depicting the situation where the user goes to the [single-page app]() version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
+Create a diagram depicting the situation where the user goes to the [single-page app](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#single-page-app) version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
 
 ### 0.6: New note in Single page app diagram
 Create a diagram depicting the situation where the user creates a new note using the single-page version of the app.
 
-This was the last exercise, and it's time to push your answers to GitHub and mark the exercises as done in the [submission system]().
+This was the last exercise, and it's time to push your answers to GitHub and mark the exercises as done in the [submission system](https://studies.cs.helsinki.fi/stats/courses/fullstackopen).
